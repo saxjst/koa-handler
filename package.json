@@ -1,5 +1,5 @@
 {
-  "name": "js-function-templatey",
+  "name": "koa-handler",
   "version": "1.0.0",
   "description": "Template repo for js functions",
   "main": "index.js",
@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saxjst/js-function-template.git"
+    "url": "git+https://github.com/saxjst/koa-handler.git"
   },
   "author": {
     "name": "saxjst"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saxjst/js-function-template/issues"
+    "url": "https://github.com/saxjst/koa-handler/issues"
   },
-  "homepage": "https://github.com/saxjst/js-function-template#readme",
+  "homepage": "https://github.com/saxjst/koa-handler#readme",
   "engines": {
     "node": ">=10.16.3"
   },
