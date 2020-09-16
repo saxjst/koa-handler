@@ -74,7 +74,8 @@ Configure a koa server with a provided configuration
 
 | Param               | Type                              | Default         | Description                                      |
 | ------------------- | --------------------------------- | --------------- | ------------------------------------------------ |
-| config              | <code>Object</code>               |                 | config object                                    |
+| Koa              | `Object`               |                 | Koa builder                                    |
+| config              | `Object`               |                 | config object                                    |
 | [config.routers]    | `Object[]` | `[]` | koa routers                                      |
 | [config.middleware] | `Object[]` | `[]` | koa middlewares                                  |
 | [config.ctx]        | `Object[]` | `[]` | Items that must be added into koa context        |
