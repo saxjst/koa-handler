@@ -1,7 +1,7 @@
 {
   "name": "koa-handler",
   "version": "1.0.0",
-  "description": "Template repo for js functions",
+  "description": "Configure a koa server with a provided configuration",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -25,6 +25,7 @@
   },
   "keywords": [],
   "dependencies": {
+    "group-values-by-key": "^1.0.1",
     "ramda": "0.27.0"
   },
   "devDependencies": {
