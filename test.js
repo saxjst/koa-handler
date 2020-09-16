@@ -1,7 +1,7 @@
-const dummyFunction = require(".");
+const koaHandler = require(".");
 
-describe("dummyFunction tests", () => {
-  test("if dummyFunction is called then it must be defined", () => {
+describe("koaHandler tests", () => {
+  test("if koaHandler is called then it must be defined", () => {
     expect(typeof dummyFunction).toBe("function");
   });
 });
